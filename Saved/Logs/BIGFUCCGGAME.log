@@ -4461,3 +4461,1036 @@ LogInit: Object subsystem initialized
 [2018.04.13-19.54.53:920][199]MaterialEditorStats: Vertex shader: 31 instructions
 [2018.04.13-19.54.53:920][199]MaterialEditorStats: Texture samplers: 6/16
 [2018.04.13-19.54.53:920][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.13-20.57.36:537][187]LogMaterial: Missing cached shader map for material LegsM, compiling. 
+[2018.04.13-20.57.36:605][187]LogMaterial: Missing cached shader map for material LegsM, compiling. 
+[2018.04.13-20.57.36:665][187]LogMaterial: Missing cached shader map for material LegsM, compiling. 
+[2018.04.13-20.57.36:722][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LegsM, compiling. 
+[2018.04.13-20.57.38:992][187]TextureStreamingBuild: Display: Compiling optional shaders took 2.276 seconds.
+[2018.04.13-20.57.41:385][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.13-20.57.42:157][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-20.58.13:401][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.018
+[2018.04.13-20.58.13:403][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Material/LegsM] ([1] browsable assets)...
+[2018.04.13-20.58.13:434][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Material/LegsM.LegsM]
+[2018.04.13-20.58.13:434][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Material/LegsM]
+[2018.04.13-20.58.13:489][734]LogSavePackage: Save=37.82ms
+[2018.04.13-20.58.13:489][734]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/LegsM_Auto605E0DD624DFC4A4CE3BAE1BFFF8EA240.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/LegsM_Auto6.uasset'
+[2018.04.13-20.58.13:491][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/LegsM_Auto6.uasset
+[2018.04.13-20.58.13:491][734]LogFileHelpers: Auto-saving content packages took 0.089
+[2018.04.13-21.01.29:922][960]LogSavePackage: Save=210.76ms
+[2018.04.13-21.01.29:922][960]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default234BEBFF45BE69DEDB2644ABA6795075.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.13-21.01.29:932][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.13-21.01.30:042][960]LogSavePackage: Save=48.43ms
+[2018.04.13-21.01.30:042][960]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_BuiltData3DE49BB1409EA44B08524A9A78147F8F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.04.13-21.01.30:051][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.04.13-21.03.54:500][621]LogSavePackage: Save=25.60ms
+[2018.04.13-21.03.54:500][621]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Pistol5B10DBA14F46621C60B7D3B4DF3E66C8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol.uasset'
+[2018.04.13-21.03.54:503][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol.uasset
+[2018.04.13-21.03.54:547][621]LogSavePackage: Save=17.91ms
+[2018.04.13-21.03.54:547][621]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Pistol_PhysicsAsset5C6B9AF44BE74537E496779D55A66E85.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol_PhysicsAsset.uasset'
+[2018.04.13-21.03.54:550][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol_PhysicsAsset.uasset
+[2018.04.13-21.03.54:562][621]LogSavePackage: Save=6.43ms
+[2018.04.13-21.03.54:562][621]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Pistol_Skeleton088B58344782366B4327249769F64873.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol_Skeleton.uasset'
+[2018.04.13-21.03.54:565][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol_Skeleton.uasset
+[2018.04.13-21.04.00:185][920]LogSavePackage: Save=100.63ms
+[2018.04.13-21.04.00:185][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_DCDFAFFA14A0B95C510C138B2D5D8261F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_D.uasset'
+[2018.04.13-21.04.00:188][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_D.uasset
+[2018.04.13-21.04.00:227][920]LogSavePackage: Save=26.13ms
+[2018.04.13-21.04.00:227][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_Masks29A4A3B964EFAE9DF8AB9909E7C64E66D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_Masks2.uasset'
+[2018.04.13-21.04.00:231][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_Masks2.uasset
+[2018.04.13-21.04.00:291][920]LogSavePackage: Save=44.96ms
+[2018.04.13-21.04.00:291][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_N0BA72F2849BA204D15BE9981DD8F7C0E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_N.uasset'
+[2018.04.13-21.04.00:294][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_N.uasset
+[2018.04.13-21.04.00:326][920]LogSavePackage: Save=16.85ms
+[2018.04.13-21.04.00:326][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifleColor_M21B6C15E40F1FDFCB24FF9BD4DAA2DC6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifleColor_M.uasset'
+[2018.04.13-21.04.00:329][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifleColor_M.uasset
+[2018.04.13-21.04.00:342][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/T_White_Pistol_D" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_D.uasset" SILENT=true
+[2018.04.13-21.04.00:560][920]LogSavePackage: Save=215.11ms
+[2018.04.13-21.04.00:560][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Pistol_D794307AC474320B1BDB5D487AB73EFD3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_D.uasset'
+[2018.04.13-21.04.00:563][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_D.uasset
+[2018.04.13-21.04.00:606][920]LogSavePackage: Save=28.90ms
+[2018.04.13-21.04.00:606][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Pistol_MasksA34645EB4B8EF4AA0554FAA2445E382F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_Masks.uasset'
+[2018.04.13-21.04.00:609][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_Masks.uasset
+[2018.04.13-21.04.00:622][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/T_White_Pistol_N" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_N.uasset" SILENT=true
+[2018.04.13-21.04.00:799][920]LogSavePackage: Save=175.65ms
+[2018.04.13-21.04.00:799][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Pistol_N2F282CB147DA36B5921CD6AEBCDB27B4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_N.uasset'
+[2018.04.13-21.04.00:803][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Pistol_N.uasset
+[2018.04.13-21.04.01:236][920]LogSavePackage: Save=27.64ms
+[2018.04.13-21.04.01:236][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster90C1F3CE41EC187FAB8D39BFE7238817.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_WeaponMaster.uasset'
+[2018.04.13-21.04.01:238][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_WeaponMaster.uasset
+[2018.04.13-21.04.01:305][920]LogSavePackage: Save=18.95ms
+[2018.04.13-21.04.01:305][920]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Pistol_Inst79094CF84C08A5ADD1B042A7BA0FC055.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Pistol_Inst.uasset'
+[2018.04.13-21.04.01:308][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Pistol_Inst.uasset
+[2018.04.13-21.04.06:868][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/M_Pistol_Inst" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/M_Pistol_Inst.uasset" SILENT=true
+[2018.04.13-21.04.06:893][229]LogSavePackage: Save=22.38ms
+[2018.04.13-21.04.06:893][229]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Pistol_Inst2C1E6DD24B05C49DFDDEB5BCE6B3E233.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/M_Pistol_Inst.uasset'
+[2018.04.13-21.04.06:896][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/M_Pistol_Inst.uasset
+[2018.04.13-21.04.06:917][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.04.06:948][229]LogSavePackage: Save=29.55ms
+[2018.04.13-21.04.06:948][229]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster84058CA04046F1CF44F7DF9D5629366B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/M_WeaponMaster.uasset'
+[2018.04.13-21.04.06:952][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/M_WeaponMaster.uasset
+[2018.04.13-21.04.07:121][229]LogSavePackage: Save=14.35ms
+[2018.04.13-21.04.07:121][229]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Pistol8468E0194B660C59DFDE8F873D09EB17.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol.uasset'
+[2018.04.13-21.04.07:122][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol.uasset
+[2018.04.13-21.06.05:732][788]LogSavePackage: Save=33.33ms
+[2018.04.13-21.06.05:732][788]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_ShotgunBCCEAE74471F437258F76FB083C79528.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset'
+[2018.04.13-21.06.05:735][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset
+[2018.04.13-21.06.05:774][788]LogSavePackage: Save=17.39ms
+[2018.04.13-21.06.05:774][788]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Shotgun_PhysicsAsset0E9D2BCE4C9F8694ACA677BF1D9A54A8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun_PhysicsAsset.uasset'
+[2018.04.13-21.06.05:777][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun_PhysicsAsset.uasset
+[2018.04.13-21.06.05:788][788]LogSavePackage: Save=5.63ms
+[2018.04.13-21.06.05:788][788]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Shotgun_Skeleton8A74B89B48A921CCB0E2FDBB40208C55.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun_Skeleton.uasset'
+[2018.04.13-21.06.05:792][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun_Skeleton.uasset
+[2018.04.13-21.06.10:695][ 52]LogSavePackage: Save=82.18ms
+[2018.04.13-21.06.10:695][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_Masks3C380E3A461472A369273F856EB50237.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_Masks.uasset'
+[2018.04.13-21.06.10:698][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_Masks.uasset
+[2018.04.13-21.06.10:837][ 52]LogSavePackage: Save=106.56ms
+[2018.04.13-21.06.10:837][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Shotgun_D3D3AB3AE496B20B00A000EB029B27DFF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Shotgun_D.uasset'
+[2018.04.13-21.06.10:840][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Shotgun_D.uasset
+[2018.04.13-21.06.10:931][ 52]LogSavePackage: Save=76.51ms
+[2018.04.13-21.06.10:931][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Shotgun_Masks8F048C024F1FAF361C223C8E97FEDD21.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Shotgun_Masks.uasset'
+[2018.04.13-21.06.10:934][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Shotgun_Masks.uasset
+[2018.04.13-21.06.10:996][ 52]LogSavePackage: Save=46.96ms
+[2018.04.13-21.06.10:996][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Shotgun_N6F3601F64424724333DDA6BDB2EA8ADB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Shotgun_N.uasset'
+[2018.04.13-21.06.10:999][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_Shotgun_N.uasset
+[2018.04.13-21.06.11:044][ 52]LogSavePackage: Save=15.13ms
+[2018.04.13-21.06.11:044][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_ShotgunColor_M3558CA0048BEA5A55648D2BA557DA1A3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_ShotgunColor_M.uasset'
+[2018.04.13-21.06.11:047][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_ShotgunColor_M.uasset
+[2018.04.13-21.06.11:393][ 52]LogSavePackage: Save=19.09ms
+[2018.04.13-21.06.11:393][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_Inst9285DC19436FFADF3C3DD7BBA1287390.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst.uasset'
+[2018.04.13-21.06.11:397][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst.uasset
+[2018.04.13-21.06.11:468][ 52]LogSavePackage: Save=28.45ms
+[2018.04.13-21.06.11:468][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterD2E0584F444F4FD1126CAABC40A5EA86.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_WeaponMaster.uasset'
+[2018.04.13-21.06.11:469][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_WeaponMaster.uasset
+[2018.04.13-21.06.11:534][ 52]LogSavePackage: Save=18.50ms
+[2018.04.13-21.06.11:534][ 52]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_InstA9C10AAA48200A2D916035B407A56BDE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.06.11:537][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.06.25:692][844]LogSavePackage: Save=19.05ms
+[2018.04.13-21.06.25:693][844]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_Inst211D04CF424E2211F8FBE3B16EB191F7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_AssaultRifle_Inst.uasset'
+[2018.04.13-21.06.25:695][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_AssaultRifle_Inst.uasset
+[2018.04.13-21.06.25:714][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_Shotgun_Inst" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset" SILENT=true
+[2018.04.13-21.06.25:735][844]LogSavePackage: Save=19.68ms
+[2018.04.13-21.06.25:736][844]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_InstD16FFA404E4847331F4D81BB4AE51F02.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset'
+[2018.04.13-21.06.25:738][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset
+[2018.04.13-21.06.25:757][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.06.25:790][844]LogSavePackage: Save=30.36ms
+[2018.04.13-21.06.25:790][844]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterEE927B964C673D470943FF80664B2344.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.06.25:793][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.06.26:018][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Weapon/Riffle.uasset" SILENT=true
+[2018.04.13-21.06.26:061][844]LogSavePackage: Save=30.26ms
+[2018.04.13-21.06.26:061][844]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle4C79E58F4EA76267F0846189B2409239.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Weapon/Riffle.uasset'
+[2018.04.13-21.06.26:062][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Weapon/Riffle.uasset
+[2018.04.13-21.06.26:103][844]LogSavePackage: Save=23.43ms
+[2018.04.13-21.06.26:103][844]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Shotgun97E05496473B37E8097175B63ABB506B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset'
+[2018.04.13-21.06.26:105][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset
+[2018.04.13-21.08.35:342][354]AssetReimport: New page: Outstanding source content changes 3:08:35 AM
+[2018.04.13-21.08.35:344][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.FBX)
+[2018.04.13-21.08.35:348][354]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.13-21.08.35:348][354]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.13-21.08.35:348][354]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.13-21.08.35:348][354]LogFbx: ItemName: Model, ItemCount : 9
+[2018.04.13-21.08.35:348][354]LogFbx: ItemName: NodeAttribute, ItemCount : 7
+[2018.04.13-21.08.35:349][354]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.13-21.08.35:349][354]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.13-21.08.35:349][354]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.04.13-21.08.35:349][354]LogFbx: ItemName: Deformer, ItemCount : 8
+[2018.04.13-21.08.35:349][354]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.13-21.08.35:349][354]LogFbx: ItemName: Video, ItemCount : 1
+[2018.04.13-21.08.35:355][354]LogFbx: Loading FBX Scene from C:/Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.FBX
+[2018.04.13-21.08.35:370][354]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-21.08.37:051][354]LogFbx: Loading FBX Scene from C:/Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.FBX
+[2018.04.13-21.08.37:066][354]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-21.08.37:066][354]LogFbx: =================================================
+[2018.04.13-21.08.37:066][354]LogFbx: Dumping Node START [Riffle] 
+[2018.04.13-21.08.37:066][354]LogFbx: 	Total Deformer Count 602331576.
+[2018.04.13-21.08.37:066][354]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.13-21.08.37:066][354]LogFbx: =================================================
+[2018.04.13-21.08.37:066][354]LogFbx: 	Attribute (Riffle) Type (4).
+[2018.04.13-21.08.37:066][354]LogFbx: 		[Node Attribute Child 1] Riffle (Type Mesh).
+[2018.04.13-21.08.37:066][354]LogFbx: Dumping Node END [Riffle]
+[2018.04.13-21.08.37:066][354]LogFbx: =================================================
+[2018.04.13-21.08.37:066][354]LogFbx: Dumping Node START [Riffle] 
+[2018.04.13-21.08.37:066][354]LogFbx: 	Total Deformer Count 602339528.
+[2018.04.13-21.08.37:066][354]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.13-21.08.37:066][354]LogFbx: =================================================
+[2018.04.13-21.08.37:066][354]LogFbx: 	Attribute (Riffle) Type (4).
+[2018.04.13-21.08.37:066][354]LogFbx: 		[Node Attribute Child 1] Riffle (Type Mesh).
+[2018.04.13-21.08.37:066][354]LogFbx: Dumping Node END [Riffle]
+[2018.04.13-21.08.37:066][354]LogFbx: =================================================
+[2018.04.13-21.08.37:066][354]LogFbx: Dumping Node START [Riffle] 
+[2018.04.13-21.08.37:066][354]LogFbx: 	Total Deformer Count 602337848.
+[2018.04.13-21.08.37:066][354]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.13-21.08.37:066][354]LogFbx: =================================================
+[2018.04.13-21.08.37:066][354]LogFbx: 	Attribute (Riffle) Type (4).
+[2018.04.13-21.08.37:066][354]LogFbx: 		[Node Attribute Child 1] Riffle (Type Mesh).
+[2018.04.13-21.08.37:066][354]LogFbx: Dumping Node END [Riffle]
+[2018.04.13-21.08.37:067][354]LogFbx: Valid bind pose for Pose (Riffle) - Riffle
+[2018.04.13-21.08.37:068][354]LogLinker: Can't find file '/Game/M_AssaultRifle_Inst'
+[2018.04.13-21.08.37:068][354]LogLinker: Can't find file '/Game/M_AssaultRifle_Inst'
+[2018.04.13-21.08.37:071][354]LogMaterial: Missing cached shader map for material M_AssaultRifle_Inst, compiling. 
+[2018.04.13-21.08.37:143][354]LogLinker: Can't find file '/Game/T_White_AssaultRifle_N'
+[2018.04.13-21.08.37:143][354]LogLinker: Can't find file '/Game/T_White_AssaultRifle_N'
+[2018.04.13-21.08.37:147][354]LogMaterial: Missing cached shader map for material M_AssaultRifle_Inst, compiling. 
+[2018.04.13-21.08.37:368][354]LogSkeletalMesh: Section 0: 5295 vertices, 5 active bones
+[2018.04.13-21.08.37:374][354]LogSkeletalMesh: Section 0: Material=0, 4616 triangles
+[2018.04.13-21.08.37:378][354]LogLinker: Can't find file '/Game/Riffle_Skeleton'
+[2018.04.13-21.08.37:378][354]LogLinker: Can't find file '/Game/Riffle_Skeleton'
+[2018.04.13-21.08.37:380][354]LogLinker: Can't find file '/Game/Riffle_PhysicsAsset'
+[2018.04.13-21.08.37:381][354]LogLinker: Can't find file '/Game/Riffle_PhysicsAsset'
+[2018.04.13-21.08.37:470][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.uasset" SILENT=true
+[2018.04.13-21.08.37:497][355]LogSavePackage: Save=25.57ms
+[2018.04.13-21.08.37:497][355]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle5A5E76984CFDE377B12AEC990350E436.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.uasset'
+[2018.04.13-21.08.37:500][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.uasset
+[2018.04.13-21.08.40:507][502]AssetReimport: Importing new asset /Game/Riffle.
+[2018.04.13-21.08.43:386][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.Actor_15.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.04.13-21.08.43:425][618]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.Actor_15.DebugSkelMeshComponent_14) - call TermArticulated first.
+[2018.04.13-21.08.50:801][846]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.Actor_16.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.04.13-21.08.50:845][846]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.Actor_16.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2018.04.13-21.08.52:874][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.uasset" SILENT=true
+[2018.04.13-21.08.52:909][904]LogSavePackage: Save=25.43ms
+[2018.04.13-21.08.52:909][904]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/RiffleE741992C445BA7977F456D8FD4228FC3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.uasset'
+[2018.04.13-21.08.52:912][904]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Riffle.uasset
+[2018.04.13-21.09.06:212][639]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Shotgun)
+[2018.04.13-21.09.11:216][933]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Pistol)
+[2018.04.13-21.09.23:822][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-21.09.25:301][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2018.04.13-21.09.33:932][258]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Riffle)
+[2018.04.13-21.09.45:429][917]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Shotgun)
+[2018.04.13-21.09.52:735][330]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Pistol)
+[2018.04.13-21.11.34:176][749]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Shotgun)
+[2018.04.13-21.11.36:464][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.Actor_17.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.04.13-21.11.36:503][870]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.Actor_17.DebugSkelMeshComponent_16) - call TermArticulated first.
+[2018.04.13-21.11.38:345][912]LogSavePackage: Save=213.69ms
+[2018.04.13-21.11.38:345][912]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_Auto75DCC69AF4473E34B62B9FDA66726F46E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2018.04.13-21.11.38:347][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap
+[2018.04.13-21.11.38:349][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.248
+[2018.04.13-21.11.38:349][912]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.248
+[2018.04.13-21.11.38:351][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Riffle_PhysicsAsset] ([1] browsable assets)...
+[2018.04.13-21.11.38:395][912]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Riffle_PhysicsAsset.Riffle_PhysicsAsset]
+[2018.04.13-21.11.38:395][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Riffle_PhysicsAsset]
+[2018.04.13-21.11.38:413][912]LogSavePackage: Save=15.86ms
+[2018.04.13-21.11.38:413][912]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle_PhysicsAsset_Auto7EF4594B742436713C9D66DA03FEEA214.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Riffle_PhysicsAsset_Auto7.uasset'
+[2018.04.13-21.11.38:415][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Riffle_PhysicsAsset_Auto7.uasset
+[2018.04.13-21.11.38:416][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Riffle_Skeleton] ([1] browsable assets)...
+[2018.04.13-21.11.38:416][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Riffle_Skeleton]
+[2018.04.13-21.11.38:423][912]LogSavePackage: Save=5.86ms
+[2018.04.13-21.11.38:423][912]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle_Skeleton_Auto77C2E8BB444C5B0D416D4BCA6AB3413A9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Riffle_Skeleton_Auto7.uasset'
+[2018.04.13-21.11.38:426][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Riffle_Skeleton_Auto7.uasset
+[2018.04.13-21.11.38:426][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/M_AssaultRifle_Inst] ([1] browsable assets)...
+[2018.04.13-21.11.38:457][912]OBJ SavePackage:     Rendered thumbnail for [Material /Game/M_AssaultRifle_Inst.M_AssaultRifle_Inst]
+[2018.04.13-21.11.38:457][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_AssaultRifle_Inst]
+[2018.04.13-21.11.38:477][912]LogSavePackage: Save=18.54ms
+[2018.04.13-21.11.38:477][912]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_Inst_Auto7440B1408415E4E25C6F0A79915EF8FF8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/M_AssaultRifle_Inst_Auto7.uasset'
+[2018.04.13-21.11.38:478][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/M_AssaultRifle_Inst_Auto7.uasset
+[2018.04.13-21.11.38:478][912]LogFileHelpers: Auto-saving content packages took 0.127
+[2018.04.13-21.11.58:313][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Weapon/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset" SILENT=true
+[2018.04.13-21.11.58:343][702]LogSavePackage: Save=26.97ms
+[2018.04.13-21.11.58:343][702]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle8D4C053E4714CD57840B29AF48A95278.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset'
+[2018.04.13-21.11.58:352][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset
+[2018.04.13-21.12.01:088][854]LogSavePackage: Save=19.15ms
+[2018.04.13-21.12.01:088][854]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle_PhysicsAssetAB106A5B4F69E084E03CBC9C731D57AD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle_PhysicsAsset.uasset'
+[2018.04.13-21.12.01:090][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle_PhysicsAsset.uasset
+[2018.04.13-21.12.01:201][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Weapon/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset" SILENT=true
+[2018.04.13-21.12.01:231][854]LogSavePackage: Save=16.39ms
+[2018.04.13-21.12.01:231][854]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/RiffleB04D7A874CE426B81C71BAA195E1A6AD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset'
+[2018.04.13-21.12.01:233][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset
+[2018.04.13-21.12.03:737][  0]LogSavePackage: Save=6.52ms
+[2018.04.13-21.12.03:737][  0]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle_SkeletonBFAEF27D44B1978A44CA5EA29B8E8339.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle_Skeleton.uasset'
+[2018.04.13-21.12.03:740][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle_Skeleton.uasset
+[2018.04.13-21.12.03:845][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Weapon/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset" SILENT=true
+[2018.04.13-21.12.03:869][  0]LogSavePackage: Save=16.01ms
+[2018.04.13-21.12.03:869][  0]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle183661D74E308E1A44F64991BEDC3F89.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset'
+[2018.04.13-21.12.03:870][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset
+[2018.04.13-21.12.19:364][765]LogSavePackage: Save=17.08ms
+[2018.04.13-21.12.19:364][765]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/RifflePhiAssets357760B34296A35FDE7000A8D9FD6442.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/RifflePhiAssets.uasset'
+[2018.04.13-21.12.19:367][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/RifflePhiAssets.uasset
+[2018.04.13-21.12.19:378][765]LogSavePackage: Save=5.76ms
+[2018.04.13-21.12.19:378][765]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/RiffleSkeleton0FEE6F8B410653852C102FB78474F347.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/RiffleSkeleton.uasset'
+[2018.04.13-21.12.19:381][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/RiffleSkeleton.uasset
+[2018.04.13-21.12.44:391][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_18.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.04.13-21.12.44:430][654]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.Actor_18.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2018.04.13-21.12.49:347][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.Actor_19.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2018.04.13-21.12.49:387][802]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.Actor_19.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2018.04.13-21.13.16:743][157]LogSavePackage: Save=7.69ms
+[2018.04.13-21.13.16:743][157]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_InstBC596096486E4E59AED1F6AF1B9FB08B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_AssaultRifle_Inst.uasset'
+[2018.04.13-21.13.16:745][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_AssaultRifle_Inst.uasset
+[2018.04.13-21.13.16:748][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.13.16:778][157]LogSavePackage: Save=17.36ms
+[2018.04.13-21.13.16:778][157]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster2D908F1C421181C7DCF2C8966DF4822A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.13.16:780][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.13.16:825][157]LogSavePackage: Save=18.22ms
+[2018.04.13-21.13.16:825][157]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_Inst73E4306A4CC5A6F68D3503AF6218BD85.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst.uasset'
+[2018.04.13-21.13.16:829][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst.uasset
+[2018.04.13-21.13.16:883][157]LogSavePackage: Save=26.98ms
+[2018.04.13-21.13.16:883][157]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster8388D42242F8F1E0682E9C825403ABA3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_WeaponMaster.uasset'
+[2018.04.13-21.13.16:884][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_WeaponMaster.uasset
+[2018.04.13-21.13.30:422][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:423][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:423][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:426][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:426][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:426][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:429][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:430][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:430][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:433][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:434][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:434][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:437][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:438][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:438][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:441][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:441][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:441][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:444][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:445][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:445][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:447][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:448][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\Models\Material\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:448][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:451][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:452][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:452][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:455][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:456][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:456][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:459][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:460][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:460][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:463][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:464][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:464][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:467][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:467][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:467][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:470][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:471][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:471][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:474][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:474][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:474][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.30:477][556]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.13.30:480][556]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\BIGFUCCGGAME\Content\SciFiWeapLight\Weapons\Materials\M_WeaponMaster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.13.30:480][556]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.13.40:012][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.Actor_20.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2018.04.13-21.13.40:053][ 10]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.Actor_20.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2018.04.13-21.13.58:225][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_21.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.04.13-21.13.58:273][792]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.Actor_21.DebugSkelMeshComponent_20) - call TermArticulated first.
+[2018.04.13-21.14.04:273][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.Actor_22.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.04.13-21.14.04:313][ 27]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.Actor_22.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2018.04.13-21.21.39:189][889]LogSavePackage: Save=210.82ms
+[2018.04.13-21.21.39:190][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_Auto868F6DDDC4337FD1DD186F498AB896D60.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2018.04.13-21.21.39:191][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap
+[2018.04.13-21.21.39:196][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.252
+[2018.04.13-21.21.39:196][889]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.252
+[2018.04.13-21.21.39:199][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifleColor_M_2] ([1] browsable assets)...
+[2018.04.13-21.21.39:205][889]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifleColor_M_2.T_White_AssaultRifleColor_M_2]
+[2018.04.13-21.21.39:206][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifleColor_M_2]
+[2018.04.13-21.21.39:224][889]LogSavePackage: Save=16.02ms
+[2018.04.13-21.21.39:224][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifleColor_M_2_AuC2DBFE7E430C05D7D92DC795A84B2010.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifleColor_M_2_Auto8.uasset'
+[2018.04.13-21.21.39:226][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifleColor_M_2_Auto8.uasset
+[2018.04.13-21.21.39:227][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifle_N_2] ([1] browsable assets)...
+[2018.04.13-21.21.39:237][889]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifle_N_2.T_White_AssaultRifle_N_2]
+[2018.04.13-21.21.39:237][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifle_N_2]
+[2018.04.13-21.21.39:283][889]LogSavePackage: Save=44.04ms
+[2018.04.13-21.21.39:283][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_N_2_Auto857695D9B483613051DE8EBB66F4566F9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_N_2_Auto8.uasset'
+[2018.04.13-21.21.39:284][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_N_2_Auto8.uasset
+[2018.04.13-21.21.39:285][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifle_Masks2_2] ([1] browsable assets)...
+[2018.04.13-21.21.39:293][889]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifle_Masks2_2.T_White_AssaultRifle_Masks2_2]
+[2018.04.13-21.21.39:294][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifle_Masks2_2]
+[2018.04.13-21.21.39:322][889]LogSavePackage: Save=26.18ms
+[2018.04.13-21.21.39:322][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_Masks2_2_AuBC6A5C994F88250219645B9A2EC695A8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_Masks2_2_Auto8.uasset'
+[2018.04.13-21.21.39:326][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_Masks2_2_Auto8.uasset
+[2018.04.13-21.21.39:327][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SciFiWeapLight/Weapons/Materials/M_WeaponMaster] ([1] browsable assets)...
+[2018.04.13-21.21.39:358][889]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SciFiWeapLight/Weapons/Materials/M_WeaponMaster.M_WeaponMaster]
+[2018.04.13-21.21.39:358][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFiWeapLight/Weapons/Materials/M_WeaponMaster]
+[2018.04.13-21.21.39:398][889]LogSavePackage: Save=28.47ms
+[2018.04.13-21.21.39:399][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster_Auto81DF2D4BC45296CF9B2E2FC9BA6CB1FDB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/SciFiWeapLight/Weapons/Materials/M_WeaponMaster_Auto8.uasset'
+[2018.04.13-21.21.39:400][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/SciFiWeapLight/Weapons/Materials/M_WeaponMaster_Auto8.uasset
+[2018.04.13-21.21.39:401][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Material/M_WeaponMaster] ([1] browsable assets)...
+[2018.04.13-21.21.39:431][889]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Material/M_WeaponMaster.M_WeaponMaster]
+[2018.04.13-21.21.39:432][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Material/M_WeaponMaster]
+[2018.04.13-21.21.39:468][889]LogSavePackage: Save=28.29ms
+[2018.04.13-21.21.39:468][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster_Auto85427C045427EA6A0E8A0568460C2FAD2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_WeaponMaster_Auto8.uasset'
+[2018.04.13-21.21.39:469][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_WeaponMaster_Auto8.uasset
+[2018.04.13-21.21.39:470][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst] ([1] browsable assets)...
+[2018.04.13-21.21.39:501][889]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst.M_AssaultRifle_Inst]
+[2018.04.13-21.21.39:501][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst]
+[2018.04.13-21.21.39:534][889]LogSavePackage: Save=19.19ms
+[2018.04.13-21.21.39:534][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_Inst_Auto8F2EA02B44AF28CA6407232B34E7BE66C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst_Auto8.uasset'
+[2018.04.13-21.21.39:535][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/SciFiWeapLight/Weapons/Materials/M_AssaultRifle_Inst_Auto8.uasset
+[2018.04.13-21.21.39:535][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Material/M_AssaultRifle_Inst] ([1] browsable assets)...
+[2018.04.13-21.21.39:567][889]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/Material/M_AssaultRifle_Inst.M_AssaultRifle_Inst]
+[2018.04.13-21.21.39:567][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Material/M_AssaultRifle_Inst]
+[2018.04.13-21.21.39:594][889]LogSavePackage: Save=19.68ms
+[2018.04.13-21.21.39:594][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_Inst_Auto889D29E824067DAE7DC8CC7A5D1F35B7C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_AssaultRifle_Inst_Auto8.uasset'
+[2018.04.13-21.21.39:596][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_AssaultRifle_Inst_Auto8.uasset
+[2018.04.13-21.21.39:596][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifle_D_2] ([1] browsable assets)...
+[2018.04.13-21.21.39:606][889]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifle_D_2.T_White_AssaultRifle_D_2]
+[2018.04.13-21.21.39:606][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifle_D_2]
+[2018.04.13-21.21.39:715][889]LogSavePackage: Save=105.68ms
+[2018.04.13-21.21.39:715][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_D_2_Auto808D5BE60490CF886C4107D9D91A0C3E5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_D_2_Auto8.uasset'
+[2018.04.13-21.21.39:717][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_D_2_Auto8.uasset
+[2018.04.13-21.21.39:717][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Models/Weapon/Riffle] ([1] browsable assets)...
+[2018.04.13-21.21.39:747][889]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Models/Weapon/Riffle.Riffle]
+[2018.04.13-21.21.39:747][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Models/Weapon/Riffle]
+[2018.04.13-21.21.39:785][889]LogSavePackage: Save=24.99ms
+[2018.04.13-21.21.39:785][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle_Auto83756257447B818DEEA8CEEBD1750DDEB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Models/Weapon/Riffle_Auto8.uasset'
+[2018.04.13-21.21.39:787][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Models/Weapon/Riffle_Auto8.uasset
+[2018.04.13-21.21.39:787][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/Riffle] ([1] browsable assets)...
+[2018.04.13-21.21.39:787][889]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.21.39:818][889]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Weapon/Riffle.Riffle]
+[2018.04.13-21.21.39:818][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/Riffle]
+[2018.04.13-21.21.39:819][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Weapon/Riffle_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.04.13-21.21.39:856][889]LogSavePackage: Save=28.46ms
+[2018.04.13-21.21.39:857][889]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle_Auto808DA7FB54E8AF42DA0FC18A98401936E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Weapon/Riffle_Auto8.uasset'
+[2018.04.13-21.21.39:858][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Weapon/Riffle_Auto8.uasset
+[2018.04.13-21.21.39:858][889]LogFileHelpers: Auto-saving content packages took 0.660
+[2018.04.13-21.22.13:333][749]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.Actor_23.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.04.13-21.22.13:374][749]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_48:PersistentLevel.Actor_23.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2018.04.13-21.22.32:955][680]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.32:972][681]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.32:988][682]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:005][683]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:022][684]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:038][685]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:055][686]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:072][687]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:088][688]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:105][689]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:122][690]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:138][691]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:155][692]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:172][693]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:188][694]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:205][695]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:222][696]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:239][697]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:255][698]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:272][699]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:289][700]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:305][701]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:322][702]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:338][703]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:355][704]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:373][705]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:389][706]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:406][707]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:423][708]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:439][709]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:458][710]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:473][711]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:490][712]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:506][713]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:523][714]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:540][715]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:556][716]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:572][717]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:589][718]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:606][719]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:639][721]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:656][722]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:672][723]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:689][724]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:706][725]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:723][726]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:739][727]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:756][728]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:773][729]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:789][730]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:806][731]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:822][732]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:839][733]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:856][734]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:872][735]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:889][736]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:905][737]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:922][738]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:939][739]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:955][740]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:972][741]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.33:989][742]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.34:006][743]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.34:089][748]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.50:023][515]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:361][648]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:378][649]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:395][650]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:411][651]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:428][652]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:444][653]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:461][654]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:478][655]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:495][656]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:511][657]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:528][658]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:544][659]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:561][660]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:578][661]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:595][662]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:611][663]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:628][664]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:645][665]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:661][666]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:678][667]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:694][668]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:711][669]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:729][670]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:745][671]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:762][672]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:780][673]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:798][674]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:815][675]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:832][676]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:849][677]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:866][678]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:884][679]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:901][680]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:918][681]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:935][682]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:953][683]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:970][684]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.52:987][685]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:004][686]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:021][687]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:038][688]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:056][689]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:073][690]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:090][691]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:107][692]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:125][693]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:142][694]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:160][695]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:178][696]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:194][697]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:212][698]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:228][699]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:246][700]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:263][701]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:280][702]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:298][703]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:316][704]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:333][705]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:350][706]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:367][707]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:384][708]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:401][709]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.22.53:419][710]LogAnimation: Warning: SkeletalMesh Riffle has no skeleton. This needs to fixed before an animation can be set
+[2018.04.13-21.23.28:509][127]LogSavePackage: Save=213.52ms
+[2018.04.13-21.23.28:509][127]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default45F00ED5429A0DD814C606AB2204D032.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.13-21.23.28:520][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.13-21.23.28:613][127]LogSavePackage: Save=46.86ms
+[2018.04.13-21.23.28:613][127]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_BuiltData3239FD2F4B5FC3CC8784C391E529356E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.04.13-21.23.28:614][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.04.13-21.23.44:938][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/LegsM" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/LegsM.uasset" SILENT=true
+[2018.04.13-21.23.44:980][819]LogSavePackage: Save=26.67ms
+[2018.04.13-21.23.44:980][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/LegsM737EAEB64EA62F1EE0764995484B6377.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/LegsM.uasset'
+[2018.04.13-21.23.44:989][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/LegsM.uasset
+[2018.04.13-21.23.45:005][819]LogSavePackage: Save=7.50ms
+[2018.04.13-21.23.45:006][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_AssaultRifle_Inst02DF3B5B489FFC7E4CEC3C9BDEEEC165.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_AssaultRifle_Inst.uasset'
+[2018.04.13-21.23.45:016][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_AssaultRifle_Inst.uasset
+[2018.04.13-21.23.45:054][819]LogSavePackage: Save=23.35ms
+[2018.04.13-21.23.45:054][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Trooper_Accessory2519617E24CF42CCAB8DAB1AF4C80F119.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Trooper_Accessory2.uasset'
+[2018.04.13-21.23.45:063][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Trooper_Accessory2.uasset
+[2018.04.13-21.23.45:084][819]LogSavePackage: Save=7.83ms
+[2018.04.13-21.23.45:084][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Trooper_Accessory2_Inst3041583C46453E88A4F0A1B1659892C8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Trooper_Accessory2_Inst.uasset'
+[2018.04.13-21.23.45:093][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Trooper_Accessory2_Inst.uasset
+[2018.04.13-21.23.45:094][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.23.45:117][819]LogSavePackage: Save=16.26ms
+[2018.04.13-21.23.45:117][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster0C134DD44D3252BD20AF32972A84D5C5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.23.45:127][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.23.45:127][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Characters/GG_M" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Characters/GG_M.uasset" SILENT=true
+[2018.04.13-21.23.45:152][819]LogSavePackage: Save=10.31ms
+[2018.04.13-21.23.45:152][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/GG_M288096404D5F6B67F71BEE986AED536D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Characters/GG_M.uasset'
+[2018.04.13-21.23.45:161][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Characters/GG_M.uasset
+[2018.04.13-21.23.45:161][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Characters/Trooper" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Characters/Trooper.uasset" SILENT=true
+[2018.04.13-21.23.45:249][819]LogSavePackage: Save=70.17ms
+[2018.04.13-21.23.45:249][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Trooper5627ADC049F5E22111E6028C745817C5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Characters/Trooper.uasset'
+[2018.04.13-21.23.45:258][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Characters/Trooper.uasset
+[2018.04.13-21.23.45:304][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Weapon/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset" SILENT=true
+[2018.04.13-21.23.45:339][819]LogSavePackage: Save=26.12ms
+[2018.04.13-21.23.45:339][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle1D1578414457290A04DB4DB4840D8F21.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset'
+[2018.04.13-21.23.45:356][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset
+[2018.04.13-21.23.45:469][819]LogSavePackage: Save=98.73ms
+[2018.04.13-21.23.45:469][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_D_2265BDE424633540CDCF108A5F66688C1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_D_2.uasset'
+[2018.04.13-21.23.45:477][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_D_2.uasset
+[2018.04.13-21.23.45:516][819]LogSavePackage: Save=26.28ms
+[2018.04.13-21.23.45:516][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_Masks2_24FBCA58940B536C8EACF528FAACF3361.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_Masks2_2.uasset'
+[2018.04.13-21.23.45:524][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_Masks2_2.uasset
+[2018.04.13-21.23.45:584][819]LogSavePackage: Save=48.15ms
+[2018.04.13-21.23.45:584][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_N_29170B57144D950F4918EB887A7EE0A9C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_N_2.uasset'
+[2018.04.13-21.23.45:590][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifle_N_2.uasset
+[2018.04.13-21.23.45:616][819]LogSavePackage: Save=15.46ms
+[2018.04.13-21.23.45:616][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifleColor_M_27371EBC34B9D219D67489F8253BD576C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifleColor_M_2.uasset'
+[2018.04.13-21.23.45:619][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/T_White_AssaultRifleColor_M_2.uasset
+[2018.04.13-21.23.45:704][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestRoom" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.13-21.23.45:863][819]LogSavePackage: Save=129.01ms
+[2018.04.13-21.23.45:863][819]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/TestRoom55ADD9554413FFABE204718006AA3E03.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap'
+[2018.04.13-21.23.45:866][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap
+[2018.04.13-21.23.45:870][819]LogFileHelpers: Saving map 'TestRoom' took 0.251
+[2018.04.13-21.23.45:872][819]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.13-21.23.45:872][819]LightingResults: New page: Lighting Build
+[2018.04.13-21.23.45:873][819]LoadErrors: New page: Loading map: TestRoom.umap
+[2018.04.13-21.23.45:877][819]MapCheck: New page: Map Check
+[2018.04.13-21.23.45:877][819]LightingResults: New page: Lighting Build
+[2018.04.13-21.23.45:902][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.13-21.23.45:965][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.13-21.23.46:092][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 126.128ms to complete.
+[2018.04.13-21.23.46:093][819]LogFileHelpers: Loading map 'TestRoom' took 0.221
+[2018.04.13-21.23.56:978][405]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.13-21.23.56:998][405]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.13-21.23.56:998][405]LightingResults: New page: Lighting Build
+[2018.04.13-21.23.56:999][405]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2018.04.13-21.23.57:000][405]MapCheck: New page: Map Check
+[2018.04.13-21.23.57:000][405]LightingResults: New page: Lighting Build
+[2018.04.13-21.23.57:023][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.13-21.23.57:064][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.13-21.23.57:145][405]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.5ms to complete.
+[2018.04.13-21.23.57:145][405]LogFileHelpers: Loading map 'Minimal_Default' took 0.147
+[2018.04.13-21.25.01:982][391]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.25.01:983][391]LogMaterial: Warning: /Engine/Transient.M_WeaponMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.25.01:983][391]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.25.02:079][391]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.25.02:080][391]LogMaterial: Warning: /Engine/Transient.M_WeaponMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.25.02:080][391]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.25.02:084][391]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.25.02:084][391]LogMaterial: Warning: /Engine/Transient.M_WeaponMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.13-21.25.02:084][391]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.25.02:110][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.04.13-21.25.02:112][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.04.13-21.25.02:113][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.04.13-21.25.02:114][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.13-21.25.02:120][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.04.13-21.25.02:125][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.04.13-21.25.02:131][391]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.13-21.26.11:678][296]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Riffle)
+[2018.04.13-21.26.24:921][867]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.Actor_24.DebugSkelMeshComponent_23) Already registered. Aborting.
+[2018.04.13-21.26.24:960][867]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.Actor_24.DebugSkelMeshComponent_23) - call TermArticulated first.
+[2018.04.13-21.26.28:054][955]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.Actor_25.DebugSkelMeshComponent_24) Already registered. Aborting.
+[2018.04.13-21.26.28:091][955]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.Actor_25.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2018.04.13-21.27.15:888][651]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Shotgun)
+[2018.04.13-21.27.42:883][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.Actor_26.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2018.04.13-21.27.42:922][131]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_54:PersistentLevel.Actor_26.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2018.04.13-21.29.42:179][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.Actor_27.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.04.13-21.29.42:218][753]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.Actor_27.DebugSkelMeshComponent_26) - call TermArticulated first.
+[2018.04.13-21.30.49:431][318]LogSavePackage: Save=30.95ms
+[2018.04.13-21.30.49:431][318]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_ShotgunA71F646E41F41C4E9A4E90831AB5AA09.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset'
+[2018.04.13-21.30.49:435][318]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset
+[2018.04.13-21.31.00:156][831]LogSavePackage: Save=20.09ms
+[2018.04.13-21.31.00:156][831]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_InstC4D6546146EC68A28BC4FDB52C305984.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.31.00:159][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.31.00:303][831]LogSavePackage: Save=23.58ms
+[2018.04.13-21.31.00:303][831]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Shotgun34656AAB4EA4230761C8D68E57CC1A84.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset'
+[2018.04.13-21.31.00:305][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Shotgun.uasset
+[2018.04.13-21.31.05:000][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.05:031][102]LogSavePackage: Save=28.64ms
+[2018.04.13-21.31.05:031][102]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterA39ADF134B1CE2AAADCB6295ACA09069.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.05:034][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.31.05:179][102]LogSavePackage: Save=19.40ms
+[2018.04.13-21.31.05:180][102]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_InstD1AA20DE421D51E53BA18CBA00572C7C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.31.05:181][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.31.05:204][102]LogSavePackage: Save=6.92ms
+[2018.04.13-21.31.05:204][102]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_Inst7D299566412DAD1DFA19229A9D1FB970.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.31.05:206][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.31.10:763][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.10:794][432]LogSavePackage: Save=17.64ms
+[2018.04.13-21.31.10:794][432]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterCDA113944C7C897F089B52985992CFD0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.10:796][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.31.10:814][432]LogSavePackage: Save=7.34ms
+[2018.04.13-21.31.10:814][432]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_InstB2564D3347D2A0AD0D728592AAEEEAD8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.31.10:816][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.31.10:835][432]LogSavePackage: Save=7.24ms
+[2018.04.13-21.31.10:835][432]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_InstC7C42E214CAB04A7367C0B8B0A7C4700.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.31.10:837][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.31.23:837][118]LogSavePackage: Save=129.05ms
+[2018.04.13-21.31.23:837][118]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_DefaultF6D67C2E42EB1FA2F3EA128EB415F5FE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.13-21.31.23:841][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.13-21.31.23:933][118]LogSavePackage: Save=45.15ms
+[2018.04.13-21.31.23:933][118]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_BuiltDataD6E962E547BAF7063D2F11BE7E122F10.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.04.13-21.31.23:935][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.04.13-21.31.28:134][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.28:162][360]LogSavePackage: Save=17.48ms
+[2018.04.13-21.31.28:162][360]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterAC81B1084448F60BCD0CBDBD06AAE068.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.28:163][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.31.34:102][706]LogSavePackage: Save=106.08ms
+[2018.04.13-21.31.34:102][706]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/dwdE94E0FAD4022D771002C7A8194C7F995.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/dwd.uasset'
+[2018.04.13-21.31.34:105][706]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/dwd.uasset
+[2018.04.13-21.31.34:206][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.34:231][706]LogSavePackage: Save=16.73ms
+[2018.04.13-21.31.34:231][706]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterEEC84A6F4D16FF4DE068D79F63DB6D49.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.34:232][706]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.31.36:620][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/dwd" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/dwd.uasset" SILENT=true
+[2018.04.13-21.31.36:727][845]LogSavePackage: Save=105.37ms
+[2018.04.13-21.31.36:727][845]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/dwd5F4DFFFC4492A1E5F8695F8362B53E77.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/dwd.uasset'
+[2018.04.13-21.31.36:730][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/dwd.uasset
+[2018.04.13-21.31.36:830][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.36:855][845]LogSavePackage: Save=16.49ms
+[2018.04.13-21.31.36:855][845]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster63A1CAEC43FD3C40BA7EF992BD2D1E8D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.36:856][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.31.45:608][365]LogSavePackage: Save=26.20ms
+[2018.04.13-21.31.45:608][365]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/MasFF50A74F4F742273D15A1CA5043CB762.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/Mas.uasset'
+[2018.04.13-21.31.45:611][365]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/Mas.uasset
+[2018.04.13-21.31.45:710][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.45:735][365]LogSavePackage: Save=16.75ms
+[2018.04.13-21.31.45:736][365]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterBE80025F4A4E4C16E694E6830BA49523.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.45:737][365]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.31.50:998][674]LogSavePackage: Save=45.56ms
+[2018.04.13-21.31.50:998][674]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/NorE29A812A40C647819BAB39B32C6AF303.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/Nor.uasset'
+[2018.04.13-21.31.51:001][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/Nor.uasset
+[2018.04.13-21.31.51:099][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.51:124][674]LogSavePackage: Save=16.92ms
+[2018.04.13-21.31.51:124][674]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterF7E2968645461D0EB4B356990FBFA807.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.51:126][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.31.55:492][931]LogSavePackage: Save=20.17ms
+[2018.04.13-21.31.55:492][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Color7447EFD64BECD4E5FF5429ADF4D55D3A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/Color.uasset'
+[2018.04.13-21.31.55:495][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/Color.uasset
+[2018.04.13-21.31.55:593][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.31.55:619][931]LogSavePackage: Save=17.18ms
+[2018.04.13-21.31.55:619][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster08C07C1A455235E8701B88859E0FBAEC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.31.55:620][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.32.01:788][291]LogSavePackage: Save=104.56ms
+[2018.04.13-21.32.01:789][291]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/ShotgunD44B0625B4072CBE1C103FF9653453A63.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/ShotgunD.uasset'
+[2018.04.13-21.32.01:792][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/ShotgunD.uasset
+[2018.04.13-21.32.01:909][291]LogSavePackage: Save=6.69ms
+[2018.04.13-21.32.01:909][291]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_Inst9460244742D17199AEC94A8543F59491.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.32.01:910][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.32.01:930][291]LogSavePackage: Save=6.96ms
+[2018.04.13-21.32.01:930][291]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_Inst2231785D4C8A366690ACE4AF1BC0C707.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.32.01:931][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.32.08:197][657]LogSavePackage: Save=75.35ms
+[2018.04.13-21.32.08:197][657]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/MaskDCF049118443F3ADA3711CDB71F626709.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/MaskD.uasset'
+[2018.04.13-21.32.08:200][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/MaskD.uasset
+[2018.04.13-21.32.08:314][657]LogSavePackage: Save=7.32ms
+[2018.04.13-21.32.08:314][657]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_Inst426758844E0E31A61806C880331B5CAC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.32.08:317][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.32.08:336][657]LogSavePackage: Save=6.70ms
+[2018.04.13-21.32.08:336][657]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_InstE6B984BD45037B9DA5447F83233BD88D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.32.08:337][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.32.15:489][ 78]LogSavePackage: Save=48.97ms
+[2018.04.13-21.32.15:489][ 78]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/ShotgunN251F72C24342AED2BFAC78AB10C3E7F5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/ShotgunN.uasset'
+[2018.04.13-21.32.15:492][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/ShotgunN.uasset
+[2018.04.13-21.32.15:616][ 78]LogSavePackage: Save=7.01ms
+[2018.04.13-21.32.15:616][ 78]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_InstE1E67C324E56DF897495E1BB9E786885.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.32.15:617][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.32.15:640][ 78]LogSavePackage: Save=7.52ms
+[2018.04.13-21.32.15:640][ 78]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_Inst0984CE9349C4EDEDBE358CA5301C8986.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.32.15:642][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.32.24:810][622]LogSavePackage: Save=13.69ms
+[2018.04.13-21.32.24:810][622]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/ColorN0E2FB02A435F2CAE3FD4C8B72AE6D8F6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/ColorN.uasset'
+[2018.04.13-21.32.24:813][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Textures/ColorN.uasset
+[2018.04.13-21.32.24:930][622]LogSavePackage: Save=6.69ms
+[2018.04.13-21.32.24:930][622]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_Inst9AC702E847024BFD7DA76BB04E9F6C14.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.32.24:931][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.32.24:950][622]LogSavePackage: Save=7.09ms
+[2018.04.13-21.32.24:950][622]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_Inst165209304AF8B963A9CCD998C88250CB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.32.24:951][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.32.31:859][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/Color" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Color.uasset" SILENT=true
+[2018.04.13-21.32.31:875][ 31]LogSavePackage: Save=14.94ms
+[2018.04.13-21.32.31:876][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Color9026284E468D7C718AAAF0962E244504.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Color.uasset'
+[2018.04.13-21.32.31:879][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Color.uasset
+[2018.04.13-21.32.31:888][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/ColorN" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ColorN.uasset" SILENT=true
+[2018.04.13-21.32.31:903][ 31]LogSavePackage: Save=13.19ms
+[2018.04.13-21.32.31:903][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/ColorNAADBC3E5491505AAFCE2BC89F9C8776E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ColorN.uasset'
+[2018.04.13-21.32.31:906][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ColorN.uasset
+[2018.04.13-21.32.31:917][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/Mas" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Mas.uasset" SILENT=true
+[2018.04.13-21.32.31:945][ 31]LogSavePackage: Save=26.36ms
+[2018.04.13-21.32.31:945][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/MasD16917444867503C520FD18C9D4274EA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Mas.uasset'
+[2018.04.13-21.32.31:948][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Mas.uasset
+[2018.04.13-21.32.31:959][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/MaskD" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/MaskD.uasset" SILENT=true
+[2018.04.13-21.32.32:039][ 31]LogSavePackage: Save=76.99ms
+[2018.04.13-21.32.32:039][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/MaskD776FE87B4A36A4207325E5B71AE828A9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/MaskD.uasset'
+[2018.04.13-21.32.32:041][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/MaskD.uasset
+[2018.04.13-21.32.32:054][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/Nor" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Nor.uasset" SILENT=true
+[2018.04.13-21.32.32:105][ 31]LogSavePackage: Save=49.52ms
+[2018.04.13-21.32.32:105][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Nor1A1A0F5E4EF363771C40D384FD79214D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Nor.uasset'
+[2018.04.13-21.32.32:108][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/Nor.uasset
+[2018.04.13-21.32.32:120][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/ShotgunD" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ShotgunD.uasset" SILENT=true
+[2018.04.13-21.32.32:234][ 31]LogSavePackage: Save=109.55ms
+[2018.04.13-21.32.32:234][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/ShotgunD532FF1EE41D85924CC8563929B553F95.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ShotgunD.uasset'
+[2018.04.13-21.32.32:237][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ShotgunD.uasset
+[2018.04.13-21.32.32:250][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Textures/ShotgunN" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ShotgunN.uasset" SILENT=true
+[2018.04.13-21.32.32:303][ 31]LogSavePackage: Save=50.89ms
+[2018.04.13-21.32.32:303][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/ShotgunN23192CC743854A9E8818A8B8C729CED4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ShotgunN.uasset'
+[2018.04.13-21.32.32:306][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Textures/ShotgunN.uasset
+[2018.04.13-21.32.32:665][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.32.32:690][ 31]LogSavePackage: Save=16.75ms
+[2018.04.13-21.32.32:690][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMaster05B2470D41C914FFE573F4BC45166389.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.32.32:691][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.32.32:710][ 31]LogSavePackage: Save=6.53ms
+[2018.04.13-21.32.32:710][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_Inst946AFD8B4AD56FF135AF22AB273EC459.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset'
+[2018.04.13-21.32.32:712][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/Materials/M_Shotgun_Inst.uasset
+[2018.04.13-21.32.32:731][ 31]LogSavePackage: Save=6.59ms
+[2018.04.13-21.32.32:731][ 31]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_InstCE82BB274E68FAF117E43F9E605C5D22.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.32.32:733][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.32.45:736][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_Shotgun_Inst" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset" SILENT=true
+[2018.04.13-21.32.45:759][791]LogSavePackage: Save=19.97ms
+[2018.04.13-21.32.45:759][791]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_Inst448CA0604FF796EA5DBCC39D603391A1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset'
+[2018.04.13-21.32.45:763][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset
+[2018.04.13-21.32.45:932][791]LogSavePackage: Save=38.46ms
+[2018.04.13-21.32.45:932][791]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_ShotgunD97411AE49E9A79C9D427E959763AF8B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/White_Shotgun.uasset'
+[2018.04.13-21.32.45:934][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/SciFiWeapLight/Weapons/White_Shotgun.uasset
+[2018.04.13-21.33.54:036][484]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Riffle)
+[2018.04.13-21.34.26:084][371]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.34.26:240][371]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.34.26:298][371]LogMaterial: Missing cached shader map for material M_WeaponMaster, compiling. 
+[2018.04.13-21.34.26:380][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.04.13-21.34.26:386][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.04.13-21.34.26:392][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.04.13-21.34.26:397][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.13-21.34.26:403][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.04.13-21.34.26:408][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.04.13-21.34.46:269][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/RiffleMat" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/RiffleMat.uasset" SILENT=true
+[2018.04.13-21.34.46:301][221]LogSavePackage: Save=30.38ms
+[2018.04.13-21.34.46:302][221]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/RiffleMat07B20B8F4D3EB89E7852079178DB5565.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/RiffleMat.uasset'
+[2018.04.13-21.34.46:307][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/RiffleMat.uasset
+[2018.04.13-21.34.46:424][221]LogSavePackage: Save=6.86ms
+[2018.04.13-21.34.46:424][221]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_Inst4B4AF9BE4CBA40F142E173B97943197E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.34.46:426][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.34.46:430][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_Shotgun_Inst" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset" SILENT=true
+[2018.04.13-21.34.46:445][221]LogSavePackage: Save=7.07ms
+[2018.04.13-21.34.46:445][221]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_Inst836F36524FF1226462C63395B9A4E9D0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset'
+[2018.04.13-21.34.46:446][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Shotgun_Inst.uasset
+[2018.04.13-21.34.47:888][272]LogMaterial: Missing cached shader map for material RiffleMat, compiling. 
+[2018.04.13-21.34.48:019][272]LogMaterial: Missing cached shader map for material RiffleMat, compiling. 
+[2018.04.13-21.34.48:078][272]LogMaterial: Missing cached shader map for material RiffleMat, compiling. 
+[2018.04.13-21.34.48:162][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.04.13-21.34.48:167][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.04.13-21.34.48:172][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.04.13-21.34.48:178][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.13-21.34.48:183][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.04.13-21.34.48:189][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.04.13-21.35.23:071][ 37]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Pistol)
+[2018.04.13-21.35.27:270][273]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RiffleMat_Inst, compiling. 
+[2018.04.13-21.35.27:781][273]TextureStreamingBuild: Display: Compiling optional shaders took 0.514 seconds.
+[2018.04.13-21.35.44:181][108]LogMaterial: Missing cached shader map for material RiffleMat, compiling. 
+[2018.04.13-21.37.08:418][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/RiffleMat_Inst" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/RiffleMat_Inst.uasset" SILENT=true
+[2018.04.13-21.37.08:437][105]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RiffleMat_Inst, compiling. 
+[2018.04.13-21.37.08:927][105]TextureStreamingBuild: Display: Compiling optional shaders took 0.494 seconds.
+[2018.04.13-21.37.08:959][105]LogSavePackage: Save=19.14ms
+[2018.04.13-21.37.08:960][105]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/RiffleMat_InstDB54C2274E355FD5700AF1AD06AE9015.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/RiffleMat_Inst.uasset'
+[2018.04.13-21.37.08:966][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/RiffleMat_Inst.uasset
+[2018.04.13-21.37.31:451][424]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Pistol)
+[2018.04.13-21.37.47:637][ 14]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Pistol)
+[2018.04.13-21.38.10:752][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_Pistol_Inst" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Pistol_Inst.uasset" SILENT=true
+[2018.04.13-21.38.10:775][185]LogSavePackage: Save=21.12ms
+[2018.04.13-21.38.10:776][185]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Pistol_InstE216F436440D1C3AF7ABF08E1B2E3EBA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Pistol_Inst.uasset'
+[2018.04.13-21.38.10:779][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Pistol_Inst.uasset
+[2018.04.13-21.38.10:917][185]LogSavePackage: Save=14.17ms
+[2018.04.13-21.38.10:917][185]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/White_Pistol15738F7542E9918D5330C8B91F481891.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol.uasset'
+[2018.04.13-21.38.10:919][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/White_Pistol.uasset
+[2018.04.13-21.38.13:467][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_WeaponMaster" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset" SILENT=true
+[2018.04.13-21.38.13:498][333]LogSavePackage: Save=28.77ms
+[2018.04.13-21.38.13:498][333]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_WeaponMasterEC0581F8460552E58F3F05A40B79ED22.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset'
+[2018.04.13-21.38.13:501][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_WeaponMaster.uasset
+[2018.04.13-21.38.13:604][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Weapon/Riffle" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset" SILENT=true
+[2018.04.13-21.38.13:635][333]LogSavePackage: Save=16.88ms
+[2018.04.13-21.38.13:635][333]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Riffle9C3E663B47B4D9A657385C8BFBC460F3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset'
+[2018.04.13-21.38.13:637][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Models/Weapon/Riffle.uasset
+[2018.04.13-21.38.13:640][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material/M_Pistol_Inst" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Pistol_Inst.uasset" SILENT=true
+[2018.04.13-21.38.13:661][333]LogSavePackage: Save=7.14ms
+[2018.04.13-21.38.13:661][333]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Pistol_Inst3B5C17D74EAF120206368B8AB71353A8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Pistol_Inst.uasset'
+[2018.04.13-21.38.13:662][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_Pistol_Inst.uasset
+[2018.04.13-21.38.30:586][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.Actor_28.DebugSkelMeshComponent_27) Already registered. Aborting.
+[2018.04.13-21.38.30:627][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_61:PersistentLevel.Actor_28.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2018.04.13-21.39.13:081][525]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Shotgun)
+[2018.04.13-21.39.26:337][213]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Shotgun2)
+[2018.04.13-21.39.41:776][ 51]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ShotgunVer2_Inst, compiling. 
+[2018.04.13-21.39.42:329][ 51]TextureStreamingBuild: Display: Compiling optional shaders took 0.556 seconds.
+[2018.04.13-21.39.42:379][ 51]LogSavePackage: Save=20.28ms
+[2018.04.13-21.39.42:379][ 51]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_InstA48A735A4C2287D3E5D1A0A5CA63C4FD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset'
+[2018.04.13-21.39.42:382][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/Models/Material/M_ShotgunVer2_Inst.uasset
+[2018.04.13-21.39.56:714][861]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (White_Shotgun)
+[2018.04.13-21.40.04:308][281]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pistol_Inst, compiling. 
+[2018.04.13-21.40.04:800][281]TextureStreamingBuild: Display: Compiling optional shaders took 0.496 seconds.
+[2018.04.13-21.40.04:884][281]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shotgun_Inst, compiling. 
+[2018.04.13-21.40.05:133][281]TextureStreamingBuild: Display: Compiling optional shaders took 0.253 seconds.
+[2018.04.13-21.40.05:213][281]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ShotgunVer2_Inst, compiling. 
+[2018.04.13-21.40.05:505][281]TextureStreamingBuild: Display: Compiling optional shaders took 0.295 seconds.
+[2018.04.13-21.40.10:239][532]LogSavePackage: Save=131.54ms
+[2018.04.13-21.40.10:239][532]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default0A2DCA6D4AB10E6A5B23E490C70A5970.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.13-21.40.10:243][532]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.13-21.40.10:335][532]LogSavePackage: Save=46.48ms
+[2018.04.13-21.40.10:335][532]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_BuiltDataC684DE08479E5B76B01DB69F1D21888C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.04.13-21.40.10:336][532]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.04.13-21.40.35:902][ 51]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Trooper)
+[2018.04.13-21.40.37:991][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-21.40.39:875][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-21.40.47:641][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-21.40.48:060][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-21.40.50:471][869]Cmd: TRANSACTION UNDO
+[2018.04.13-21.40.50:471][869]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.13-21.40.51:021][901]Cmd: TRANSACTION UNDO
+[2018.04.13-21.40.51:021][901]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.13-21.40.51:471][925]Cmd: TRANSACTION UNDO
+[2018.04.13-21.40.51:471][925]LogEditorTransaction: Undo Scale Actors
+[2018.04.13-21.40.52:175][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-21.40.53:016][ 13]Cmd: DELETE
+[2018.04.13-21.40.53:016][ 13]Cmd: ACTOR DELETE
+[2018.04.13-21.40.53:021][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.13-21.40.53:034][ 13]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.04.13-21.40.53:470][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.13-21.40.58:451][333]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Trooper)
+[2018.04.13-21.41.06:582][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GG_M)
+[2018.04.13-21.41.08:245][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Head_M)
+[2018.04.13-21.41.08:880][920]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2018.04.13-21.41.14:450][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.04.13-21.41.18:612][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Statue)
+[2018.04.13-21.41.19:579][527]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair)
+[2018.04.13-21.41.20:450][576]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair)
+[2018.04.13-21.42.49:710][794]Cmd: TRANSACTION UNDO
+[2018.04.13-21.42.49:710][794]LogEditorTransaction: Undo Edit Text
+[2018.04.13-21.43.37:273][432]LogSavePackage: Save=134.25ms
+[2018.04.13-21.43.37:273][432]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_DefaultE6C958C742016C59DC9BFC932E7F5248.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.13-21.43.37:276][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.13-21.43.37:362][432]LogSavePackage: Save=45.07ms
+[2018.04.13-21.43.37:362][432]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_BuiltData6C0ACD5C4DE278DBCF713699023EDA7B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.04.13-21.43.37:363][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.04.13-21.43.38:148][462]LogSavePackage: Save=133.58ms
+[2018.04.13-21.43.38:148][462]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default022481EE4CE3EC9EB0F847A62F47207E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.13-21.43.38:153][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.13-21.43.38:237][462]LogSavePackage: Save=45.01ms
+[2018.04.13-21.43.38:237][462]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Minimal_Default_BuiltData68A3145442B246476B3B74A68E6F5BCC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.04.13-21.43.38:239][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.04.13-21.43.44:073][677]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.04.13-21.43.45:274][677]LogAIModule: Creating AISystem for world TestRoom
+[2018.04.13-21.43.45:580][677]LogAIModule: Creating AISystem for world TestRoom
+[2018.04.13-21.43.45:587][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestRoom" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.13-21.43.45:735][677]LogSavePackage: Save=131.19ms
+[2018.04.13-21.43.45:735][677]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/TestRoom6D65AC644150E185F5588DA0E0FA59C8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap'
+[2018.04.13-21.43.45:738][677]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap
+[2018.04.13-21.43.45:746][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestRoom_BuiltData" FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom_BuiltData.uasset" SILENT=true
+[2018.04.13-21.43.45:809][677]LogSavePackage: Save=49.68ms
+[2018.04.13-21.43.45:809][677]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/TestRoom_BuiltData5633F5954E649C8AA71B5D83A3BDEEF1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom_BuiltData.uasset'
+[2018.04.13-21.43.45:812][677]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom_BuiltData.uasset
+[2018.04.13-21.43.45:819][677]LogFileHelpers: Saving map 'TestRoom' took 0.878
+[2018.04.13-21.43.45:820][677]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Content/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.13-21.43.45:834][677]LightingResults: New page: Lighting Build
+[2018.04.13-21.43.45:835][677]LoadErrors: New page: Loading map: TestRoom.umap
+[2018.04.13-21.43.45:836][677]MapCheck: New page: Map Check
+[2018.04.13-21.43.45:836][677]LightingResults: New page: Lighting Build
+[2018.04.13-21.43.45:859][677]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.13-21.43.45:904][677]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.13-21.43.45:984][677]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.684ms to complete.
+[2018.04.13-21.43.45:984][677]LogFileHelpers: Loading map 'TestRoom' took 0.166
+[2018.04.13-21.43.52:697][ 40]MapCheck: New page: Map Check
+[2018.04.13-21.43.52:715][ 40]LightingResults: New page: Lighting Build - Apr 14, 2018, 3:43:52 AM
+[2018.04.13-21.43.52:733][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.13-21.43.52:737][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.13-21.43.52:737][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.13-21.43.52:739][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.13-21.43.52:739][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13340
+[2018.04.13-21.43.57:262][ 40]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.04.13-21.43.57:263][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.13-21.43.57:263][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.13-21.43.57:263][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.13-21.43.57:263][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.13-21.43.57:263][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.13-21.43.57:448][ 40]LogEditorBuildUtils: Build time 0:04
+[2018.04.13-21.43.57:471][ 40]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LegsM, compiling. 
+[2018.04.13-21.43.57:480][ 40]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LegsM, compiling. 
+[2018.04.13-21.44.03:435][315]LightingResults: Warning: Head_M Object has overlapping UVs.
+[2018.04.13-21.44.03:435][315]LightingResults: Head_M Lightmap UV are overlapping by 92.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.04.13-21.44.04:042][352]Job is a success!
+[2018.04.13-21.44.04:114][353]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.04.13-21.44.04:114][353]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.13-21.44.04:114][353]LogVolumetricLightmapImport:      BrickData 780x5x5 = 0.6Mb
+[2018.04.13-21.44.04:114][353]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.13-21.44.04:114][353]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2018.04.13-21.44.04:114][353]LogVolumetricLightmapImport:          1: 5.8% covering 14.1% of volume
+[2018.04.13-21.44.04:114][353]LogVolumetricLightmapImport:          2: 93.6% covering 3.6% of volume
+[2018.04.13-21.44.04:351][353]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.04.13-21.44.04:351][353]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.04.13-21.44.04:351][353]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.04.13-21.44.04:351][353]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.04.13-21.44.04:351][353]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.04.13-21.44.04:351][353]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.04.13-21.44.04:380][353]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.04.13-21.44.04:380][353]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X128)
+[2018.04.13-21.44.04:426][353]Lightmass on LAPTOP-92OR110V: 5.49 sec total, 254 ms importing, 59 ms setup, 2.76 sec photons, 2.39 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 9.54 sec total, 3.61 sec processing.
+[2018.04.13-21.44.04:426][353]LogStaticLightingSystem: Illumination: 11.6 sec (227 ms encoding lightmaps, 24 ms encoding shadowmaps)
+[2018.04.13-21.44.04:426][353]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.04.13-21.44.04:426][353]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.13-21.44.05:265][353]DumpUnbuiltLightIteractions
+[2018.04.13-21.44.05:265][353]Lights with unbuilt interactions: 0
+[2018.04.13-21.44.05:265][353]
+[2018.04.13-21.44.05:265][353]Primitives with unbuilt interactions: 0
+[2018.04.13-21.44.05:507][354]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.13-21.44.05:507][354]MapCheck: New page: TestRoom - Apr 14, 2018, 3:44:05 AM
+[2018.04.13-21.44.05:508][354]MapCheck: Warning: Trooper_2 SkeletalMeshActor '/Game/Models/Models/Characters/Trooper.Trooper' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.04.13-21.44.05:588][354]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 80.625ms to complete.
+[2018.04.13-21.53.43:994][931]LogSavePackage: Save=428.13ms
+[2018.04.13-21.53.43:994][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/TestRoom_Auto93648F63843B3BBF39C5A4FBB4A380527.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/TestRoom_Auto9.umap'
+[2018.04.13-21.53.43:997][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/TestRoom_Auto9.umap
+[2018.04.13-21.53.44:003][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestRoom' took 0.487
+[2018.04.13-21.53.44:003][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.487
+[2018.04.13-21.53.44:005][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Material/M_ShotgunVer2_Inst] ([1] browsable assets)...
+[2018.04.13-21.53.44:028][931]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/Material/M_ShotgunVer2_Inst.M_ShotgunVer2_Inst]
+[2018.04.13-21.53.44:028][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Material/M_ShotgunVer2_Inst]
+[2018.04.13-21.53.44:064][931]LogSavePackage: Save=20.99ms
+[2018.04.13-21.53.44:064][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_ShotgunVer2_Inst_Auto9FCE3C90C44B4FEE7DB58AFA5DE27E142.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_ShotgunVer2_Inst_Auto9.uasset'
+[2018.04.13-21.53.44:066][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_ShotgunVer2_Inst_Auto9.uasset
+[2018.04.13-21.53.44:067][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Material/M_Shotgun_Inst] ([1] browsable assets)...
+[2018.04.13-21.53.44:082][931]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/Material/M_Shotgun_Inst.M_Shotgun_Inst]
+[2018.04.13-21.53.44:082][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Material/M_Shotgun_Inst]
+[2018.04.13-21.53.44:145][931]LogSavePackage: Save=47.36ms
+[2018.04.13-21.53.44:145][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Shotgun_Inst_Auto9168548114583DA01F21AA7B4B08E42AA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_Shotgun_Inst_Auto9.uasset'
+[2018.04.13-21.53.44:148][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_Shotgun_Inst_Auto9.uasset
+[2018.04.13-21.53.44:148][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Material/M_Pistol_Inst] ([1] browsable assets)...
+[2018.04.13-21.53.44:221][931]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/Material/M_Pistol_Inst.M_Pistol_Inst]
+[2018.04.13-21.53.44:221][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Material/M_Pistol_Inst]
+[2018.04.13-21.53.44:266][931]LogSavePackage: Save=27.94ms
+[2018.04.13-21.53.44:266][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/M_Pistol_Inst_Auto944A02F0544F57374D26FD7883B4054B3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_Pistol_Inst_Auto9.uasset'
+[2018.04.13-21.53.44:268][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Material/M_Pistol_Inst_Auto9.uasset
+[2018.04.13-21.53.44:269][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestRoom_BuiltData] ([1] browsable assets)...
+[2018.04.13-21.53.44:269][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestRoom_BuiltData]
+[2018.04.13-21.53.44:300][931]LogSavePackage: Save=13.57ms
+[2018.04.13-21.53.44:301][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/TestRoom_BuiltData_Auto976F35C384CC420EC20B39ABC6E9FEE0F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/TestRoom_BuiltData_Auto9.uasset'
+[2018.04.13-21.53.44:302][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/TestRoom_BuiltData_Auto9.uasset
+[2018.04.13-21.53.44:303][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_ShotgunColor_M_2] ([1] browsable assets)...
+[2018.04.13-21.53.44:322][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_ShotgunColor_M_2.T_White_ShotgunColor_M_2]
+[2018.04.13-21.53.44:322][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_ShotgunColor_M_2]
+[2018.04.13-21.53.44:343][931]LogSavePackage: Save=18.78ms
+[2018.04.13-21.53.44:343][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_ShotgunColor_M_2_Auto98C51F1074EB7BF454C8C3AA5361ED117.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_ShotgunColor_M_2_Auto9.uasset'
+[2018.04.13-21.53.44:344][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_ShotgunColor_M_2_Auto9.uasset
+[2018.04.13-21.53.44:345][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifleColor_M_3] ([1] browsable assets)...
+[2018.04.13-21.53.44:411][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifleColor_M_3.T_White_AssaultRifleColor_M_3]
+[2018.04.13-21.53.44:411][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifleColor_M_3]
+[2018.04.13-21.53.44:431][931]LogSavePackage: Save=16.86ms
+[2018.04.13-21.53.44:431][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifleColor_M_3_Au1EE07B3A41A78CF5E34FF180D56C251A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifleColor_M_3_Auto9.uasset'
+[2018.04.13-21.53.44:432][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifleColor_M_3_Auto9.uasset
+[2018.04.13-21.53.44:433][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifle_D_3] ([1] browsable assets)...
+[2018.04.13-21.53.44:450][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifle_D_3.T_White_AssaultRifle_D_3]
+[2018.04.13-21.53.44:450][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifle_D_3]
+[2018.04.13-21.53.44:653][931]LogSavePackage: Save=200.20ms
+[2018.04.13-21.53.44:681][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_D_3_Auto96B1F5836495923CA6B8BDEBB23AC3FB3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_D_3_Auto9.uasset'
+[2018.04.13-21.53.44:711][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_D_3_Auto9.uasset
+[2018.04.13-21.53.44:713][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_Shotgun_N_2] ([1] browsable assets)...
+[2018.04.13-21.53.44:736][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_Shotgun_N_2.T_White_Shotgun_N_2]
+[2018.04.13-21.53.44:736][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_Shotgun_N_2]
+[2018.04.13-21.53.44:822][931]LogSavePackage: Save=79.04ms
+[2018.04.13-21.53.44:822][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Shotgun_N_2_Auto909EC44794DD950BB56C653B869FE00D7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_Shotgun_N_2_Auto9.uasset'
+[2018.04.13-21.53.44:824][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_Shotgun_N_2_Auto9.uasset
+[2018.04.13-21.53.44:825][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifle_N_3] ([1] browsable assets)...
+[2018.04.13-21.53.44:856][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifle_N_3.T_White_AssaultRifle_N_3]
+[2018.04.13-21.53.44:856][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifle_N_3]
+[2018.04.13-21.53.44:938][931]LogSavePackage: Save=77.47ms
+[2018.04.13-21.53.44:938][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_N_3_Auto94F8DE0254DAE0F29DF8E9EBBEBD39BE3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_N_3_Auto9.uasset'
+[2018.04.13-21.53.44:940][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_N_3_Auto9.uasset
+[2018.04.13-21.53.44:941][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_Shotgun_Masks_2] ([1] browsable assets)...
+[2018.04.13-21.53.44:973][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_Shotgun_Masks_2.T_White_Shotgun_Masks_2]
+[2018.04.13-21.53.44:973][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_Shotgun_Masks_2]
+[2018.04.13-21.53.45:196][931]LogSavePackage: Save=219.64ms
+[2018.04.13-21.53.45:196][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Shotgun_Masks_2_Auto9974C7C0C448D5C0405B737917CAF7194.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_Shotgun_Masks_2_Auto9.uasset'
+[2018.04.13-21.53.45:206][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_Shotgun_Masks_2_Auto9.uasset
+[2018.04.13-21.53.45:211][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_Shotgun_D_2] ([1] browsable assets)...
+[2018.04.13-21.53.45:252][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_Shotgun_D_2.T_White_Shotgun_D_2]
+[2018.04.13-21.53.45:252][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_Shotgun_D_2]
+[2018.04.13-21.53.45:447][931]LogSavePackage: Save=191.50ms
+[2018.04.13-21.53.45:447][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_Shotgun_D_2_Auto9D8015C564F7F2114756635ADE047B74F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_Shotgun_D_2_Auto9.uasset'
+[2018.04.13-21.53.45:449][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_Shotgun_D_2_Auto9.uasset
+[2018.04.13-21.53.45:451][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Textures/T_White_AssaultRifle_Masks2_3] ([1] browsable assets)...
+[2018.04.13-21.53.45:483][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Textures/T_White_AssaultRifle_Masks2_3.T_White_AssaultRifle_Masks2_3]
+[2018.04.13-21.53.45:483][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Textures/T_White_AssaultRifle_Masks2_3]
+[2018.04.13-21.53.45:525][931]LogSavePackage: Save=39.60ms
+[2018.04.13-21.53.45:525][931]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/T_White_AssaultRifle_Masks2_3_Au971269C24FF982A1554E529B4037ECBD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_Masks2_3_Auto9.uasset'
+[2018.04.13-21.53.45:528][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/Unreal Projects/BIGFUCCGGAME/Saved/Autosaves/Game/Models/Textures/T_White_AssaultRifle_Masks2_3_Auto9.uasset
+[2018.04.13-21.53.45:528][931]LogFileHelpers: Auto-saving content packages took 1.524
